@@ -88,6 +88,9 @@ require (
 	github.com/jonboulle/clockwork v0.4.0 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
+	github.com/kcp-dev/apimachinery/v2 v2.29.0-rc.0
+	github.com/kcp-dev/client-go v0.28.1-0.20251106174152-fdcf8d48933a
+	github.com/kcp-dev/logicalcluster/v3 v3.0.5
 	github.com/kylelemons/godebug v1.1.0 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/moby/spdystream v0.5.0 // indirect
